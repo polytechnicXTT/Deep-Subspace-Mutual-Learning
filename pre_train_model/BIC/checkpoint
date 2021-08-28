@@ -1,0 +1,6 @@
+model_checkpoint_path: "Gene_Expression1990.ckpt"
+all_model_checkpoint_paths: "Gene_Expression1950.ckpt"
+all_model_checkpoint_paths: "Gene_Expression1960.ckpt"
+all_model_checkpoint_paths: "Gene_Expression1970.ckpt"
+all_model_checkpoint_paths: "Gene_Expression1980.ckpt"
+all_model_checkpoint_paths: "Gene_Expression1990.ckpt"

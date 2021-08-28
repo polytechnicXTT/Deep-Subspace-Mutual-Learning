@@ -1,0 +1,1 @@
+ft_times = 2700 learning_rate = 0.001 reg1 = 1 reg2 = 84 alpha = 0.04

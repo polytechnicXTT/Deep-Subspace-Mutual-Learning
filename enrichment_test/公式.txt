@@ -1,0 +1,1 @@
+=IF(first!A1<0.0083,0,first!A1)
